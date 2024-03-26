@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m Jack Jia.
-- 🌱 I’m currently learning Java, C.
-- 👯 I've learnt C++ and Python.
-- 😄 Pronouns: he/him/they/them
+- 🌱 I’m currently learning machine learning.
+- 👯 I've learned Python, Java, and C++.
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am inevitable.
